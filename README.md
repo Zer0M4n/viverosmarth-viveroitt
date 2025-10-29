@@ -8,7 +8,7 @@ El dispositivo envía lecturas simuladas de temperatura, humedad, suelo, luz y a
 
 ## 🚀 Requisitos
 
-- Placa ESP32 o ESP8266  
+- Placa ESP32 , ESP8266 y RPI PICO W 
 - Firmware **MicroPython**  
 - Conexión WiFi  
 - Cuenta en [https://flespi.io](https://flespi.io)
