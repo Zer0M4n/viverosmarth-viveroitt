@@ -146,6 +146,7 @@ void loop() {
 
 
 ```
+<img width="226" height="206" alt="image" src="https://github.com/user-attachments/assets/ed13f90e-6147-420f-bb3e-440d0ead10de" />
 
 ------------------------------------------------------------------------
 
